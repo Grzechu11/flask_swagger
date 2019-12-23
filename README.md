@@ -1,11 +1,12 @@
 # Flask sample project
 
-This is sample project to host Flask with Visual Studio Code debugger
+This is sample project to host Flask with swagger
 
 ## Thanks
 
-- [Tutorial]('https://code.tutsplus.com/pl/tutorials/creating-a-web-app-from-scratch-using-python-flask-and-mysql--cms-22972')
+- [Swagger]('https://swagger.io/tools/swagger-ui/')
 - [Docs]('https://python101.readthedocs.io/pl/latest/webflask/')
+- [Flask-RESTPlus]('https://flask-restplus.readthedocs.io/en/stable/quickstart.html#a-minimal-api')
 - [Visual Studio Code Tutorial]('https://code.visualstudio.com/docs/python/tutorial-flask')
 
 ## Useful commands
