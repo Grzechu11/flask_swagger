@@ -40,6 +40,7 @@ pip install -r requirements.txt
 - add virtual enviroment
 
 ```powershell
+pip install virtualenv
 py -m venv env
 ```
 
